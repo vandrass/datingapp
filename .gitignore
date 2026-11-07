@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/dating.db*
+
+#Claude files
+CLAUDE.md
+.claude/
